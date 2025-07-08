@@ -15,5 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skoflay&show_icons=true&locale=en&layout=compact" alt="skoflay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skoflay&show_icons=true&locale=en" alt="skoflay" /></p>
+![alarm](https://github.com/user-attachments/assets/74fd4d84-6817-4063-b0c2-567d5bdb8a6e)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skoflay&" alt="skoflay" /></p>
