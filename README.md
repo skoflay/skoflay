@@ -27,6 +27,13 @@
 
 ---
 
+### ✨ Just Vibing
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74fd4d84-6817-4063-b0c2-567d5bdb8a6e" alt="vibe-gif" />
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 **Languages & Frameworks**  
