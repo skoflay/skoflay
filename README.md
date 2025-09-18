@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently studying Computer Engineering  
+- 🎓 I'm currently studying Software Engineering  
 - 🌱 I'm learning about **Artificial Intelligence and Full Stack Development**
 - 🔭 I love building modern web and desktop applications  
 - ⚡ Fun fact: I automate boring tasks with code  
