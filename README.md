@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Computer Engineering Student</h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer</h1>
 <h3 align="center">Passionate Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
@@ -8,13 +8,6 @@
 </p>
  my portfolio : https://portfolio-v1-66lt.vercel.app/
 --
-
-### 👨‍💻 About Me
-
-- 🎓 I'm currently studying Software Engineering  
-- 🌱 I'm learning about **Artificial Intelligence and Full Stack Development**
-- 🔭 I love building modern web and desktop applications  
-- ⚡ Fun fact: I automate boring tasks with code  
 
 ---
 
